@@ -1,6 +1,6 @@
 # MINI PROPOSAL
 #
-#
+#\newpage
 # PROJECT TITLE: SMART WATER SYSTEM
 #
 #
