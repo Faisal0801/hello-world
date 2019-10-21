@@ -1,11 +1,12 @@
 # MINI PROPOSAL
 #
 #
-\pagebreak
+#
 # PROJECT TITLE: SMART WATER SYSTEM
-#
-#
-#
+
+
+
+
 # TEAM NAME: ENDEAVOR
 #
 #
@@ -18,4 +19,4 @@
 #
 #
 #
-
+# Overview of the project
