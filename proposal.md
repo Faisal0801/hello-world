@@ -16,6 +16,29 @@ critical information in the files and manuals is full of risk and a tedious proc
 #
 # Proposed System Architecture
 
-![alt text](https:drive.google.com/uc?export=view&id=1rGND99sDcB961EZXrreUfprhxEHmHDRs)
+> Use Case
+![alt text](https://drive.google.com/uc?export=view&id=1rGND99sDcB961EZXrreUfprhxEHmHDRs)
+
+#
+# Proposed Domain Model
+
+> Class Diagram
+![alt text](https://drive.google.com/uc?export=view&id=17zH7R-4026ADBmmQCk5j6burzGnWLHfH)
+
+#
+# Proposed Entity-Relationship Diagram
 
 
+
+
+#
+# Proposed Database Tables
+
+![alt text](https://drive.google.com/uc?export=view&id=1GK0Xd5sLGb-I_YwPWjz7h55O6bfaN78L)
+
+#
+# Proposed User Interface
+
+![alt text](https://drive.google.com/uc?export=view&id=1Em_7SFvVAFroStgXu834CKoE5alhM7De)
+
+![alt text](https://drive.google.com/uc?export=view&id=1gcLx-ZaCtCjeMF49fcJJHpeTsZMZObBl)
