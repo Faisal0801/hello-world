@@ -28,7 +28,7 @@ critical information in the files and manuals is full of risk and a tedious proc
 #
 # Proposed Entity-Relationship Diagram
 
-
+![alt text](https://drive.google.com/uc?export=view&id=1PxbbyNo1Y9Zv0-fR0yt3n3MmW7WiPbW-)
 
 
 #
@@ -42,3 +42,8 @@ critical information in the files and manuals is full of risk and a tedious proc
 ![alt text](https://drive.google.com/uc?export=view&id=1Em_7SFvVAFroStgXu834CKoE5alhM7De)
 
 ![alt text](https://drive.google.com/uc?export=view&id=1gcLx-ZaCtCjeMF49fcJJHpeTsZMZObBl)
+
+#
+# Website(s) where the main Django server is based.
+
+http://127.0.0.1:8000/
