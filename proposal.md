@@ -16,5 +16,6 @@ critical information in the files and manuals is full of risk and a tedious proc
 #
 # Proposed System Architecture
 
+![alt text](https:drive.google.com/uc?export=view&id=1rGND99sDcB961EZXrreUfprhxEHmHDRs)
 
 
