@@ -1,0 +1,53 @@
+Content-Type: multipart/alternative;
+ boundary="===============1691243317084419878=="
+MIME-Version: 1.0
+Subject: Profile activation
+From: test@example.com
+To: faisal@gmail.com
+Date: Wed, 18 Dec 2019 07:26:57 -0000
+Message-ID: <157665401784.14744.6844994600919122121@DESKTOP-1NVB2KT>
+
+--===============1691243317084419878==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+
+
+To activate your profile, please follow this link:
+
+http://127.0.0.1:8000/accounts/activate/NhKnJ7DhOhso0b17ddYM/
+
+--===============1691243317084419878==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <title>Profile activation</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+</head>
+
+<body>
+
+<p>
+    To activate your profile, please follow this link:
+</p>
+
+<p>
+    <a href="http://127.0.0.1:8000/accounts/activate/NhKnJ7DhOhso0b17ddYM/">http://127.0.0.1:8000/accounts/activate/NhKnJ7DhOhso0b17ddYM/</a>
+</p>
+
+</body>
+
+</html>
+
+--===============1691243317084419878==--
+
+-------------------------------------------------------------------------------
