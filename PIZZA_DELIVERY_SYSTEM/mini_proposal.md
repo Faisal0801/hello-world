@@ -23,12 +23,12 @@ Use Case
 # Domain Model
 
 Class Diagram
-![alt text](https://drive.google.com/uc?export=view&id=17zH7R-4026ADBmmQCk5j6burzGnWLHfH)
+![alt text](https://drive.google.com/uc?export=view&id=1nmA5Fh7NTmYF3lYsfxLsFe4OePRPdEC8)
 
 #
 # Entity-Relationship Diagram
 
-![alt text](https://drive.google.com/uc?export=view&id=1PxbbyNo1Y9Zv0-fR0yt3n3MmW7WiPbW-)
+![alt text](https://drive.google.com/uc?export=view&id=109GyGWKDYCDM1hJ9Gqbp1nGphZO5-Shm)
 
 
 #
